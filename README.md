@@ -67,7 +67,9 @@ This is a simple QR Code generator that allows users to generate a QR Code from 
 You can download the QR Code as a PNG image once it has been generated.
 
 ## Installation
+
 No installation is required as everything works on the client-side. The page can be used directly in the browser.
 
 ## License
+
 This project is licensed under the MIT License.
