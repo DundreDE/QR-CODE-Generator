@@ -61,7 +61,7 @@ This is a simple QR Code generator that allows users to generate a QR Code from 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DundreDE/qr-code-generator.git
+   git clone https://github.com/DundreDE/QR-CODE-Generator.git
 2. Open the index.html file in your preferred browser.
 3. Enter your desired text, choose your options, and click "Generate QR Code".
 You can download the QR Code as a PNG image once it has been generated.
